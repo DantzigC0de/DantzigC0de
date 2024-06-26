@@ -1,27 +1,8 @@
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtrb3hnMmttM3pzOXlpYmNieHM2dHJscWI4aHkwMXp5enNmYW5nOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/102h4wsmCG2s12/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://t.me/KillerKyle">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.instagram.com/richarddcven?igsh=MnN2dXpibzd6NnUw">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://x.com/rdiazc_1?t=tTtX_aiA258-RpBeLYTKnA&s=09">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X-Badge"/>
-  </a>
-</div>
-
-
-
-
-<!-- Big hacker gif -->
+<!-- Ciber space gif -->
 <h1>Hello there, I'm Richard</h1>
- <div align="center">
-  <img src="https://utfs.io/f/3bed71e1-9ebd-4802-9500-f7752c059536-f498tw.gif" width="600" height="300"/>
- </div>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV1ZzVlZ29wOHhzcG1qYWtnN3ZnaXQ2aDY4OGR2cjZranpxMTRwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6vXTpomeZEyxufGU/giphy.gif" width="600" height="600"/>
+</div>
  </div>
 <br/>
 
@@ -41,3 +22,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <br/>
+
+<!-- Social Media Links -->
+<div id="badges" align="center">
+  <a href="https://t.me/KillerKyle">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/richarddcven?igsh=MnN2dXpibzd6NnUw">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://x.com/rdiazc_1?t=tTtX_aiA258-RpBeLYTKnA&s=09">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X-Badge"/>
+  </a>
+</div>
+
