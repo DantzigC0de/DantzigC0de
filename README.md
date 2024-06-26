@@ -19,7 +19,7 @@
 
 - :zap: In my free time, I'm learning all the time, playing videogames or listening podcasts :).
 
-- :mailbox:How to reach me: Gmail:rdiazcven@gmail.com
+- :mailbox:How to reach me: Gmail: rdiazcven@gmail.com
 </div>
 <!-- Tech stack icons -->  
 <h2>Languages and Tools</h2>
