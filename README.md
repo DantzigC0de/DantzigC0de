@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div>
+  <iframe src="https://giphy.com/embed/f3CtEsJ72j86DIumaJ" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-watermelon-html-f3CtEsJ72j86DIumaJ">via GIPHY</a></p>
+</div>
 <!--
 **DantzigC0de/DantzigC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
