@@ -19,6 +19,7 @@
 <br/>
 
 <!-- Social Media Links -->
+<h3>Social Media Links</h3>
 <div id="badges" align="center">
   <a href="https://t.me/KillerKyle">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
