@@ -1,6 +1,6 @@
 <!-- Big hacker gif -->
 <h1>Hello there, I'm Richard</h1>
- <div align="center">
+ <div align="left">
   <img src="https://utfs.io/f/b3408d82-f1fc-497c-85af-6c3cda07feb6-41fhud.jpg" width="100%" height="100%
    "/>
  </div>
