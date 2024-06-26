@@ -1,7 +1,7 @@
 <!-- Big hacker gif -->
 <h1>Hello there, I'm Richard</h1>
  <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHacker_tourism_banner_Keyboard.jpg&psig=AOvVaw2KFRv6u14rfUi2K9WkVwpT&ust=1719501615346000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiW6qXK-YYDFQAAAAAdAAAAABAE" width="600" height="600"/>
+  <img src="https://utfs.io/f/b3408d82-f1fc-497c-85af-6c3cda07feb6-41fhud.jpg" width="600" height="300"/>
  </div>
  </div>
 <br/>
