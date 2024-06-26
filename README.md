@@ -10,6 +10,8 @@
  </div>
  </div>
 <br/>
+<!-- About me -->
+<h2>About me</h2>
 <div>
  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cuba.
  
@@ -33,7 +35,7 @@
 <br/>
 
 <!-- Social Media Links -->
-<h3>Social Media Links</h3>
+<h2>Social Media Links</h2>
 <div id="badges" align="left">
   <a href="https://t.me/KillerKyle">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -48,3 +50,9 @@
   </a>
 </div>
 
+<!-- Stats -->
+<h2>My Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Calana2&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calana2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
